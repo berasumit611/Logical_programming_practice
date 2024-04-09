@@ -1,1 +1,2 @@
-hi
+## Hi there 👋
+Welcome to my personal repository for daily logical coding practice! 🚀 This repository is where I hone my problem-solving skills using Java and C++. Every day, I challenge myself with a new logical coding problem, carefully selected to cover a diverse range of concepts and difficulty levels.
