@@ -1,13 +1,14 @@
-import java.util.Scanner;
+// Check if a Given Number is Positive or Negative in Java
 
-class One{
+import java.util.Scanner;
+class $1{
     public static void main(String[] args) {
         Scanner r =new Scanner(System.in);
 
-        System.out.println("Enter a number: ");
+        System.out.print("Enter a number: ");
         int x=r.nextInt();
         if(x==0){
-            System.out.println("------Zero-----");
+            System.out.println("Zero");
         }
         else{
             String y=(x>0)?"Positive":"Negative";
