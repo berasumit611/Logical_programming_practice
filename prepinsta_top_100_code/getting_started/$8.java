@@ -1,6 +1,6 @@
 //Check Whether or Not the Year is a Leap Year in Java
 import java.util.Scanner;
-class th8 {
+class $8 {
     public static void main(String[] args){
         Scanner r=new Scanner(System.in);
         System.out.print("Enter year: ");
